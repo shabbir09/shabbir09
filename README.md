@@ -1,9 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Shabbir</h1>
-<h3 align="center">A fresh CSE graduate from Bangladesh majored in AI.</h3>
+<h3 align="center">A CSE graduate from Bangladesh majored in AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabbir09&label=Profile%20views&color=0e75b6&style=flat" alt="shabbir09" /> </p>
+
+- 👨🏻‍🏫 I’m currently teaching as a Lab Instructor at **North South University** 
 
 - 🔭 I’m currently working on **Flood Mapping using remote sensing**
 
