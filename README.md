@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabbir09&label=Profile%20views&color=0e75b6&style=flat" alt="shabbir09" /> </p>
 
 - 👨🏻‍🏫 I’m currently teaching as a Lab Instructor at **North South University**
-- - 🔭 I’m currently working on **AI data trainer(Data annotate, response rating,review etc.)**
+- 🔭 I’m currently working on **AI data trainer(Data annotate, response rating,review etc.)**
 - 🔭 I’m currently working on **Flood Mapping using remote sensing**
 
 - 🌱 I’m currently learning **Data Science, Deep Learning on Coursera**
